@@ -25,5 +25,6 @@ public class appdemo
         g.drawString("+_______",48,80);
         g.drawString(String.valueOf(z),50,90);
     }
-    
+    //sonu
+    //yash
 }
